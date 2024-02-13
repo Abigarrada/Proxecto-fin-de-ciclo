@@ -1,6 +1,6 @@
 # Fantasy F1
 
-Fantasy F1 is a school project created as part of the Campus Dual TIC Full Stack Bootcamp in 2023. 
+Fantasy F1 is a group project created as part of the Campus Dual TIC Full Stack Bootcamp in 2023. 
 
 ## How it works
 
