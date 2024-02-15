@@ -15,7 +15,7 @@ Fantasy F1 is a Fantasy League created with the data of Formula 1 as an sport. I
 - Compare the performance of the different drivers.
 - Compete with other people to win.
 
-You can watch a demo of the final project [here](https://youtu.be/lBu8zHNtz0s).
+You can watch a demo of the final product [here](https://youtu.be/lBu8zHNtz0s).
 
 ## Technologies used
 
@@ -27,4 +27,4 @@ You can watch a demo of the final project [here](https://youtu.be/lBu8zHNtz0s).
 
 - **API REST**: As a source for all the data we needed on Formula 1, we used the Ergast Developer API, which is an experimental web service which provides a historical record of motor racing data for non-commercial purposes. More information [here](https://ergast.com/mrd/).
 
-- **HTML5, CSS3, Bootstrap & SASS.**
+- **HTML5, CSS3, Bootstrap & SASS**.
